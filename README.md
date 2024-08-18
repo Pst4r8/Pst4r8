@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pst4r8&label=Profile%20views&color=0e75b6&style=flat" alt="pst4r8" /> </p>
 
-- 🔭 I’m currently working on [Capture The Flag Platform](https://ctf.rajawalisecteam.id)
+- 🔭 I’m currently working on [Capture The Flag Platform](https://ctf.rajawalisecteam.eu.org)
 
 - 🌱 I’m currently learning **Frameworks, Databases, Modules**
 
-- 👯 I’m looking to collaborate on [Rajawali Security Team](https://rajawalisecteam.id)
+- 👯 I’m looking to collaborate on [Rajawali Security Team](https://rajawalisecteam.eu.org)
 
 - 🤝 I’m looking for help with **PST4R8B0T**
 
